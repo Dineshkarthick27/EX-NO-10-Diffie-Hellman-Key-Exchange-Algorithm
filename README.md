@@ -1,4 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
+# NAME:DINESH KARTHICK K J
+# REG NO:212222100011
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
